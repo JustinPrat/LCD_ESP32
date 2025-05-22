@@ -8,7 +8,7 @@ Cependant en utilisant les librairies :
 https://github.com/nathalislight/NCAT/tree/main/NCAT_ESP32
 https://github.com/ducalex/retro-go/tree/master
 
-Aucune des deux n'a reussit a fonctionée malgrès les modifs.
+Aucune des deux n'a reussit a fonctioné malgrès les modifs.
 
 Dans la phase la plus avancée du projet nous avions : 
 
