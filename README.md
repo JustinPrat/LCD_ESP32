@@ -25,3 +25,7 @@ Dans la phase la plus avancée du projet nous avions :
 
 La première bread board pouvait communiquer avec la seconde en utilisant le protocole 
 ESP-NOW et envoyer ses inputs pour que la deuxieme bread board puisse les affichers a l'écran
+
+Le code utilise les libs : 
+Adafruit_ST7735_and_ST7789_Library et 
+Adafruit_GFX_Library
