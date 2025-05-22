@@ -22,3 +22,6 @@ Dans la phase la plus avancée du projet nous avions :
 1 carte ESP32 WROOM devkit
 1 lecteur carte sd
 1 2" pouce LCD Module
+
+La première bread board pouvait communiquer avec la seconde en utilisant le protocole 
+ESP-NOW et envoyer ses inputs pour que la deuxieme bread board puisse les affichers a l'écran
