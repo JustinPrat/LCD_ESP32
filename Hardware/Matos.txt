@@ -1,0 +1,14 @@
+SCREEN :
+https://www.waveshare.com/wiki/2inch_LCD_Module
+
+MICRO SD READER :
+https://www.circuitstate.com/tutorials/interfacing-catalex-micro-sd-card-module-with-arduino/
+
+ESP32 WROOM
+https://www.zapgillou.fr/public/wp-content/uploads/2023/05/ESP-32-Dev-Kit-C-V2_FR.pdf
+
+JOYSTICK :
+https://arduinofactory.fr/joystick-arduino/
+
+LED : 
+https://asset.re-in.de/add/160267/c1/-/en/001616259ML01/AN_Iduino-ST1090-Module-LED-RGB.pdf
